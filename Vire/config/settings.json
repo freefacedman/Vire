@@ -1,0 +1,12 @@
+﻿{
+  "learning_rate": 0.10,
+  "reflection_interval_minutes": 30,
+  "model": "VIRE",
+  "logging": {
+    "level": "INFO",
+    "file": "logs/activity.log"
+  },
+  "OPENWEATHER_API_KEY": "YOUR_OPENWEATHERMAP_KEY_HERE",
+  "NEWSAPI_API_KEY":      "YOUR_NEWSAPI_KEY_HERE",
+  "EXCHANGE_API_KEY":     "YOUR_EXCHANGE_API_KEY_HERE"
+}

@@ -1,0 +1,13 @@
+Chess is played on an 8x8 board. 
+Each player controls 16 pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns.
+
+- The king can move one square in any direction.
+- The queen can move any number of squares in any direction.
+- The rook moves horizontally or vertically.
+- The bishop moves diagonally.
+- The knight moves in an "L" shape: two squares one direction, one square perpendicular.
+- The pawn moves forward one square (or two squares on its first move) and captures diagonally.
+
+Checkmate occurs when a king is under threat of capture (in "check") and cannot escape.
+Castling allows the king to move two spaces toward a rook, and the rook moves to the opposite side.
+Promotion happens when a pawn reaches the farthest rank, and it can become a queen, rook, bishop, or knight.

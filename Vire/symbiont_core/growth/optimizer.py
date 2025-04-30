@@ -1,0 +1,1 @@
+﻿class Optimizer:\n    pass
